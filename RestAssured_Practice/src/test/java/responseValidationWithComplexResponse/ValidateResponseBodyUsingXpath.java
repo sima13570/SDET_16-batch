@@ -18,7 +18,7 @@ public class ValidateResponseBodyUsingXpath {
 		 * Validate the first projectName(sample) is available in the Static response
 		 */
 		
-		String expectedProjectName="sample";
+		String expectedProjectName="sample-123";
 		Response resp = when()
 		                    .get("http://localhost:8084/projects");
 		
