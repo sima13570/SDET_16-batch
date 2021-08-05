@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: E2E.scenerio_API_Assignment.GetDeleteAndVerifyProject
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.611 s - in E2E.scenerio_API_Assignment.GetDeleteAndVerifyProject

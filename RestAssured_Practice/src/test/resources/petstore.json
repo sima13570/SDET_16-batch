@@ -1,0 +1,18 @@
+{
+  "id": 123,
+  "category": {
+    "id": 123,
+    "name": "Dog"
+  },
+  "name": "Bigger",
+  "photoUrls": [
+    "Dog.jpg"
+  ],
+  "tags": [
+    {
+      "id": 123,
+      "name": "Bigger"
+    }
+  ],
+  "status": "available"
+}
